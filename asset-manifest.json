@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-lorem-ipsum-project/static/css/main.fb86bce3.chunk.css",
+    "main.js": "/react-lorem-ipsum-project/static/js/main.d59e2259.chunk.js",
+    "main.js.map": "/react-lorem-ipsum-project/static/js/main.d59e2259.chunk.js.map",
+    "runtime-main.js": "/react-lorem-ipsum-project/static/js/runtime-main.196c0f9c.js",
+    "runtime-main.js.map": "/react-lorem-ipsum-project/static/js/runtime-main.196c0f9c.js.map",
+    "static/js/2.d8a71053.chunk.js": "/react-lorem-ipsum-project/static/js/2.d8a71053.chunk.js",
+    "static/js/2.d8a71053.chunk.js.map": "/react-lorem-ipsum-project/static/js/2.d8a71053.chunk.js.map",
+    "index.html": "/react-lorem-ipsum-project/index.html",
+    "precache-manifest.01c27ec5cd4fe3a1c2a12ebfc1b4e02e.js": "/react-lorem-ipsum-project/precache-manifest.01c27ec5cd4fe3a1c2a12ebfc1b4e02e.js",
+    "service-worker.js": "/react-lorem-ipsum-project/service-worker.js",
+    "static/css/main.fb86bce3.chunk.css.map": "/react-lorem-ipsum-project/static/css/main.fb86bce3.chunk.css.map",
+    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/react-lorem-ipsum-project/static/js/2.d8a71053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.196c0f9c.js",
+    "static/js/2.d8a71053.chunk.js",
+    "static/css/main.fb86bce3.chunk.css",
+    "static/js/main.d59e2259.chunk.js"
+  ]
+}
